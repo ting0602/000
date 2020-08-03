@@ -1,0 +1,12 @@
+Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:20:19) [MSC v.1925 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> a=78
+>>> b=67
+>>> c=89
+>>> d=91
+>>> e=76
+>>> print(a+b+c+d+e)
+401
+>>> print(401/5)
+80.2
+>>> 
